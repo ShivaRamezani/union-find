@@ -6,4 +6,4 @@ Then put the elements afterwards. Each one in a new line since it is reading ent
 
 There is an example data set included to see how things should be input. (data.txt)
 
-Doing the union, find, and delete are explained in the program.
+Doing the union, find, and delete are explained in the program!
